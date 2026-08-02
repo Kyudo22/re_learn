@@ -1,3 +1,3 @@
 # re_learn
 Re-learning git
-Author - Souvik Banerjee
+Author - Souvik Banerjee (Learn)
